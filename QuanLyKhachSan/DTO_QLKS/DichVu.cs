@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace DTO_QLKS
 {
-    class DichVu
+    public class DichVu
     {
+        #region Properties
+        private int maDV, maKhacHang;
+        private string tenDV;
+        #endregion
     }
 }
