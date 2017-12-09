@@ -10,3 +10,15 @@ C:\Users\nmhie\Desktop\15CK2 - 2017-2018_1\Programming Application Management 1\
 C:\Users\nmhie\Desktop\15CK2 - 2017-2018_1\Programming Application Management 1\Thực hành\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\GUI_QuanLyKhachSan.csproj.GenerateResource.Cache
 C:\Users\nmhie\Desktop\15CK2 - 2017-2018_1\Programming Application Management 1\Thực hành\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe
 C:\Users\nmhie\Desktop\15CK2 - 2017-2018_1\Programming Application Management 1\Thực hành\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb
+E:\GitHub\PTDLKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe.config
+E:\GitHub\PTDLKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe
+E:\GitHub\PTDLKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb
+E:\GitHub\PTDLKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe
+E:\GitHub\PTDLKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.pdb
+E:\GitHub\PTDLKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bussiness_QLKS.dll
+E:\GitHub\PTDLKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DTO_QLKS.dll
+E:\GitHub\PTDLKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bussiness_QLKS.pdb
+E:\GitHub\PTDLKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DTO_QLKS.pdb
+E:\GitHub\PTDLKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\GUI_QuanLyKhachSan.csprojResolveAssemblyReference.cache
+E:\GitHub\PTDLKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Properties.Resources.resources
+E:\GitHub\PTDLKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\GUI_QuanLyKhachSan.csproj.GenerateResource.Cache

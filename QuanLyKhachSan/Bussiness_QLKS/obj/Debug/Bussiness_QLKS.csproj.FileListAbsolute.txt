@@ -7,3 +7,12 @@ C:\Users\nmhie\Desktop\15CK2 - 2017-2018_1\Programming Application Management 1\
 C:\Users\nmhie\Desktop\15CK2 - 2017-2018_1\Programming Application Management 1\Thực hành\QuanLyKhachSan\Bussiness_QLKS\obj\Debug\Bussiness_QLKS.csprojResolveAssemblyReference.cache
 C:\Users\nmhie\Desktop\15CK2 - 2017-2018_1\Programming Application Management 1\Thực hành\QuanLyKhachSan\Bussiness_QLKS\obj\Debug\Bussiness_QLKS.dll
 C:\Users\nmhie\Desktop\15CK2 - 2017-2018_1\Programming Application Management 1\Thực hành\QuanLyKhachSan\Bussiness_QLKS\obj\Debug\Bussiness_QLKS.pdb
+E:\GitHub\PTDLKhachSan\QuanLyKhachSan\Bussiness_QLKS\bin\Debug\Bussiness_QLKS.dll
+E:\GitHub\PTDLKhachSan\QuanLyKhachSan\Bussiness_QLKS\bin\Debug\Bussiness_QLKS.pdb
+E:\GitHub\PTDLKhachSan\QuanLyKhachSan\Bussiness_QLKS\bin\Debug\DAL_QLKS.dll
+E:\GitHub\PTDLKhachSan\QuanLyKhachSan\Bussiness_QLKS\bin\Debug\DTO_QLKS.dll
+E:\GitHub\PTDLKhachSan\QuanLyKhachSan\Bussiness_QLKS\bin\Debug\DAL_QLKS.pdb
+E:\GitHub\PTDLKhachSan\QuanLyKhachSan\Bussiness_QLKS\bin\Debug\DTO_QLKS.pdb
+E:\GitHub\PTDLKhachSan\QuanLyKhachSan\Bussiness_QLKS\obj\Debug\Bussiness_QLKS.csprojResolveAssemblyReference.cache
+E:\GitHub\PTDLKhachSan\QuanLyKhachSan\Bussiness_QLKS\obj\Debug\Bussiness_QLKS.dll
+E:\GitHub\PTDLKhachSan\QuanLyKhachSan\Bussiness_QLKS\obj\Debug\Bussiness_QLKS.pdb
