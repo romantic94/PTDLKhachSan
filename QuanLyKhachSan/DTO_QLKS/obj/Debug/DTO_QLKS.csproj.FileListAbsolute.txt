@@ -1,0 +1,5 @@
+C:\Users\nmhie\Desktop\15CK2 - 2017-2018_1\Programming Application Management 1\Thực hành\QuanLyKhachSan\DTO_QLKS\bin\Debug\DTO_QLKS.dll
+C:\Users\nmhie\Desktop\15CK2 - 2017-2018_1\Programming Application Management 1\Thực hành\QuanLyKhachSan\DTO_QLKS\bin\Debug\DTO_QLKS.pdb
+C:\Users\nmhie\Desktop\15CK2 - 2017-2018_1\Programming Application Management 1\Thực hành\QuanLyKhachSan\DTO_QLKS\obj\Debug\DTO_QLKS.csprojResolveAssemblyReference.cache
+C:\Users\nmhie\Desktop\15CK2 - 2017-2018_1\Programming Application Management 1\Thực hành\QuanLyKhachSan\DTO_QLKS\obj\Debug\DTO_QLKS.dll
+C:\Users\nmhie\Desktop\15CK2 - 2017-2018_1\Programming Application Management 1\Thực hành\QuanLyKhachSan\DTO_QLKS\obj\Debug\DTO_QLKS.pdb

@@ -1,0 +1,12 @@
+C:\Users\nmhie\Desktop\15CK2 - 2017-2018_1\Programming Application Management 1\Thực hành\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe.config
+C:\Users\nmhie\Desktop\15CK2 - 2017-2018_1\Programming Application Management 1\Thực hành\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe
+C:\Users\nmhie\Desktop\15CK2 - 2017-2018_1\Programming Application Management 1\Thực hành\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.pdb
+C:\Users\nmhie\Desktop\15CK2 - 2017-2018_1\Programming Application Management 1\Thực hành\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bussiness_QLKS.dll
+C:\Users\nmhie\Desktop\15CK2 - 2017-2018_1\Programming Application Management 1\Thực hành\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DTO_QLKS.dll
+C:\Users\nmhie\Desktop\15CK2 - 2017-2018_1\Programming Application Management 1\Thực hành\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bussiness_QLKS.pdb
+C:\Users\nmhie\Desktop\15CK2 - 2017-2018_1\Programming Application Management 1\Thực hành\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DTO_QLKS.pdb
+C:\Users\nmhie\Desktop\15CK2 - 2017-2018_1\Programming Application Management 1\Thực hành\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\GUI_QuanLyKhachSan.csprojResolveAssemblyReference.cache
+C:\Users\nmhie\Desktop\15CK2 - 2017-2018_1\Programming Application Management 1\Thực hành\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Properties.Resources.resources
+C:\Users\nmhie\Desktop\15CK2 - 2017-2018_1\Programming Application Management 1\Thực hành\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\GUI_QuanLyKhachSan.csproj.GenerateResource.Cache
+C:\Users\nmhie\Desktop\15CK2 - 2017-2018_1\Programming Application Management 1\Thực hành\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe
+C:\Users\nmhie\Desktop\15CK2 - 2017-2018_1\Programming Application Management 1\Thực hành\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb
